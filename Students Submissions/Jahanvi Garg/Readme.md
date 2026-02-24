@@ -1,4 +1,5 @@
 Data-Driven Optimization of IT Support Team Performance (Supportlytics) 📊
+
 📌 Project Overview
 Supportlytics is a data-driven analytics project focused on optimizing IT support team performance by analyzing historical support ticket data.
 The project leverages advanced analytics, exploratory data analysis, clustering, and interactive dashboards to uncover performance trends, operational bottlenecks, and opportunities for improvement in IT service management.
